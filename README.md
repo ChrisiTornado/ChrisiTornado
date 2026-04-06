@@ -1,48 +1,57 @@
 <h1 align="center">Hey, I'm Christophe 👋</h1>
-<h3 align="center">Computer Science • DevOps & Cloud Enthusiast • QA Engineer</h3>
+<h3 align="center">QA Engineer with a strong focus on automation, backend systems, and reliable products</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+cool+things+with+Cloud+%26+DevOps;Into+Microservices%2C+Automation+and+Backend+Systems;QA+Engineer+with+a+builder+mindset;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=23&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=820&lines=QA+Engineer+who+likes+breaking+things+before+users+do;Focused+on+automation%2C+APIs+and+robust+backend+systems;Interested+in+quality+for+modern+and+intelligent+products;Always+curious%2C+always+improving" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I'm Christophe, a developer with a strong interest in **cloud engineering, DevOps, QA, Automation and backend systems**.  
-I enjoy building practical solutions, automating workflows and turning ideas into real products.
+I'm Christophe, a QA Engineer with a background in computer science and a strong interest in building **reliable, well-tested, and scalable software**.
 
-Right now, I’m focused on:
-- ☁️ Cloud & DevOps
-- ⚙️ Backend development
-- 🧪 Quality Assurance & CI/CD
-- 🏗️ Microservice architectures
+What I enjoy most about QA is not just finding bugs, but understanding **why systems fail, where edge cases hide, and how quality can be built into a product from the start**. I like working closely with developers, thinking beyond happy paths, and improving release confidence through automation.
+
+My current focus is on **test automation, API quality, backend systems, and continuous improvement**. I’m especially interested in environments where quality engineering is treated as a real part of product development, not just a final check.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cypress,maestro,spring,angular,docker,gcp,aws,git,postman" />
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,spring,docker,git,postman,aws,gcp,angular" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Testing-Cypress-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Testing-Maestro-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/API-QA-222222?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Automation-222222?style=for-the-badge" />
 </p>
 
 ---
 
-## 🔥 What I'm Working On
+## What I'm Interested In
 
-- Building modern **microservice-based applications**
-- Exploring **Cloud Run, Terraform, and scalable cloud deployments**
-- Improving software quality with **automated testing in CI/CD pipelines**
-- Deepening my focus on **DevOps and cloud engineering**
-
----
-
-### 💼 QA Engineer
-Working in software quality with a focus on **automation, testing workflows and CI/CD pipelines**.
+- Test automation for web apps and APIs  
+- Edge-case thinking and product robustness  
+- Backend quality and release reliability  
+- Performance, scalability, and clean engineering workflows  
+- Quality challenges in modern intelligent systems  
 
 ---
 
-## 📈 GitHub Stats
+## Projects
+
+I like working on practical projects that combine **backend engineering, architecture, and product thinking**.  
+You'll find a few of them below.
+
+<!-- Add your linked projects here -->
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" />
@@ -51,7 +60,7 @@ Working in software quality with a focus on **automation, testing workflows and 
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="mailto:christophe.andunda@gmail.com">
@@ -69,5 +78,5 @@ Working in software quality with a focus on **automation, testing workflows and 
 </p>
 
 <p align="center">
-  <i>Code. Automate. Build. Repeat.</i>
+  <i>Quality matters when products matter.</i>
 </p>
