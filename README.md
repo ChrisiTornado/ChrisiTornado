@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Christophe 👋</h1>
-<h3 align="center">Computer Science Student • DevOps & Cloud Enthusiast • QA Engineer</h3>
+<h3 align="center">Computer Science • DevOps & Cloud Enthusiast • QA Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+cool+things+with+Cloud+%26+DevOps;Into+Microservices%2C+Automation+and+Backend+Systems;QA+Engineer+with+a+builder+mindset;Always+learning%2C+always+shipping" alt="Typing SVG" />
@@ -23,7 +23,7 @@ Right now, I’m focused on:
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,postgres,docker,terraform,gcp,aws,git,gitlab,linux,postman,rabbitmq,elasticsearch" />
+  <img src="https://skillicons.dev/icons?i=java,python,cypress,maestro,spring,angular,docker,gcp,aws,git,postman" />
 </p>
 
 ---
