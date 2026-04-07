@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:0A66C2,100:00D4FF&text=Christophe%20Andunda&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=QA%20Engineer%20%7C%20Automation%20%7C%20Backend%20Quality&descAlignY=58&descSize=18&animation=fadeIn" alt="Christophe Andunda banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,45:0A66C2,100:00D4FF&text=Christophe%20Andunda&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cloud%20%7C%20DevOps%20%7C%20QA&descAlignY=58&descSize=18&animation=fadeIn" alt="Christophe Andunda banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=820&lines=I+break+things+before+users+do;Automation%2C+APIs+and+backend+reliability;Quality+engineering+for+products+that+matter;Always+curious%2C+always+improving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=820&lines=Software+engineer+focused+on+Cloud%2C+DevOps+and+QA;Automation%2C+APIs+and+backend+reliability" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -13,18 +13,17 @@
   <a href="https://www.linkedin.com/in/christophe-andunda-1763ab1b9/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=ChrisiTornado&label=Profile+Views&color=00D4FF&style=for-the-badge" alt="Profile views" />
 </p>
 
 ---
 
 ## About Me
 
-I'm Christophe, a QA Engineer with a background in computer science and a strong interest in building **reliable, well-tested, and scalable software**.
+I'm Christophe, a Software Engineer with a background in computer science and a strong focus on **Cloud, DevOps, and Quality Assurance**.
 
-What I enjoy most about QA is not just finding bugs, but understanding **why systems fail, where edge cases hide, and how quality can be built into a product from the start**. I like working closely with developers, thinking beyond happy paths, and improving release confidence through automation.
+I enjoy building systems that are reliable from development to deployment. My work connects **automation, APIs, backend reliability, and cloud-ready engineering**, with an eye for clean workflows and practical solutions.
 
-My current focus is on **test automation, API quality, backend systems, and continuous improvement**. I'm especially interested in environments where quality engineering is treated as a real part of product development, not just a final check.
+My current focus is on **Cloud/DevOps practices, QA automation, API quality, and backend systems**. I like working where software quality is part of the full engineering process, not just the final check before release.
 
 ---
 
@@ -70,17 +69,34 @@ My current focus is on **test automation, API quality, backend systems, and cont
 
 I like working on practical projects that combine **backend engineering, architecture, and product thinking**.
 
-<p align="center">
-  <a href="https://github.com/ChrisiTornado/bcube">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisiTornado&repo=bcube&theme=github_dark&hide_border=true&border_radius=8&title_color=00D4FF&icon_color=00D4FF" alt="bcube repository card" />
-  </a>
-  <a href="https://github.com/ChrisiTornado/PlanWise">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisiTornado&repo=PlanWise&theme=github_dark&hide_border=true&border_radius=8&title_color=00D4FF&icon_color=00D4FF" alt="PlanWise repository card" />
-  </a>
-  <a href="https://github.com/ChrisiTornado/OCRHub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChrisiTornado&repo=OCRHub&theme=github_dark&hide_border=true&border_radius=8&title_color=00D4FF&icon_color=00D4FF" alt="OCRHub repository card" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="33%">
+      <h3 align="center">bcube</h3>
+      <p align="center">
+        <a href="https://github.com/ChrisiTornado/bcube">
+          <img src="https://img.shields.io/badge/Open%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Open bcube repository" />
+        </a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">PlanWise</h3>
+      <p align="center">
+        <a href="https://github.com/ChrisiTornado/PlanWise">
+          <img src="https://img.shields.io/badge/Open%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Open PlanWise repository" />
+        </a>
+      </p>
+    </td>
+    <td width="33%">
+      <h3 align="center">OCRHub</h3>
+      <p align="center">
+        <a href="https://github.com/ChrisiTornado/OCRHub">
+          <img src="https://img.shields.io/badge/Open%20Repository-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Open OCRHub repository" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
