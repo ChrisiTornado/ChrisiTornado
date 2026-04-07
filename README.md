@@ -28,14 +28,14 @@ I enjoy building systems that are reliable from development to deployment. My wo
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,spring,docker,git,postman,aws,gcp,angular" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,spring,docker,kubernetes,git,githubactions,postman,aws,gcp,angular" alt="Tech stack icons" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Testing-Cypress-0B1020?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
-  <img src="https://img.shields.io/badge/Testing-Maestro-0B1020?style=for-the-badge" alt="Maestro" />
-  <img src="https://img.shields.io/badge/API-QA-0A66C2?style=for-the-badge&logo=postman&logoColor=white" alt="API QA" />
-  <img src="https://img.shields.io/badge/CI%2FCD-Automation-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD Automation" />
+  <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP-0A66C2?style=for-the-badge&logo=googlecloud&logoColor=white" alt="AWS and GCP" />
+  <img src="https://img.shields.io/badge/DevOps-Docker%20%7C%20Kubernetes-0B1020?style=for-the-badge&logo=docker&logoColor=white" alt="Docker and Kubernetes" />
+  <img src="https://img.shields.io/badge/Automation-CI%2FCD-0A66C2?style=for-the-badge&logo=githubactions&logoColor=white" alt="CI/CD Automation" />
+  <img src="https://img.shields.io/badge/QA-API%20Testing-0B1020?style=for-the-badge&logo=postman&logoColor=white" alt="API Testing" />
 </p>
 
 ---
@@ -44,20 +44,20 @@ I enjoy building systems that are reliable from development to deployment. My wo
 
 <table>
   <tr>
-    <td><strong>Test Automation</strong></td>
-    <td>Reliable checks for web apps, APIs and release workflows.</td>
+    <td><strong>Cloud Engineering</strong></td>
+    <td>Building deployment-ready systems with scalable, cloud-aware workflows.</td>
   </tr>
   <tr>
-    <td><strong>Backend Quality</strong></td>
-    <td>Edge cases, integration behavior, data flows and API contracts.</td>
+    <td><strong>DevOps Practices</strong></td>
+    <td>Improving delivery with automation, CI/CD, containers and clean release processes.</td>
   </tr>
   <tr>
-    <td><strong>Product Robustness</strong></td>
-    <td>Thinking beyond happy paths so teams can ship with more confidence.</td>
+    <td><strong>QA Automation</strong></td>
+    <td>Creating reliable checks for APIs, backend behavior and product-critical flows.</td>
   </tr>
   <tr>
-    <td><strong>Continuous Improvement</strong></td>
-    <td>Cleaner feedback loops, better observability and stronger engineering workflows.</td>
+    <td><strong>Backend Reliability</strong></td>
+    <td>Working with API contracts, integration behavior, data flows and edge cases.</td>
   </tr>
 </table>
 
