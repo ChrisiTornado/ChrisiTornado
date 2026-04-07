@@ -19,11 +19,9 @@
 
 ## About Me
 
-I'm Christophe, a Software Engineer with a background in computer science and a strong focus on **Cloud, DevOps, and Quality Assurance**.
+I'm Christophe, a Software Engineer with a background in computer science and a strong focus on **Cloud, DevOps and Quality Assurance**.
 
-I enjoy building systems that are reliable from development to deployment. My work connects **automation, APIs, backend reliability, and cloud-ready engineering**, with an eye for clean workflows and practical solutions.
-
-My current focus is on **Cloud/DevOps practices, QA automation, API quality, and backend systems**. I like working where software quality is part of the full engineering process, not just the final check before release.
+I enjoy building systems that are reliable from development to deployment. My work connects **automation, APIs, backend reliability and cloud-ready engineering**, with an eye for clean workflows and practical solutions.
 
 ---
 
@@ -47,11 +45,11 @@ My current focus is on **Cloud/DevOps practices, QA automation, API quality, and
 <table>
   <tr>
     <td><strong>Test Automation</strong></td>
-    <td>Reliable checks for web apps, APIs, and release workflows.</td>
+    <td>Reliable checks for web apps, APIs and release workflows.</td>
   </tr>
   <tr>
     <td><strong>Backend Quality</strong></td>
-    <td>Edge cases, integration behavior, data flows, and API contracts.</td>
+    <td>Edge cases, integration behavior, data flows and API contracts.</td>
   </tr>
   <tr>
     <td><strong>Product Robustness</strong></td>
@@ -59,7 +57,7 @@ My current focus is on **Cloud/DevOps practices, QA automation, API quality, and
   </tr>
   <tr>
     <td><strong>Continuous Improvement</strong></td>
-    <td>Cleaner feedback loops, better observability, and stronger engineering workflows.</td>
+    <td>Cleaner feedback loops, better observability and stronger engineering workflows.</td>
   </tr>
 </table>
 
@@ -67,7 +65,7 @@ My current focus is on **Cloud/DevOps practices, QA automation, API quality, and
 
 ## Projects
 
-I like working on practical projects that combine **backend engineering, architecture, and product thinking**.
+I like working on practical projects that combine **backend engineering, architecture and product thinking**.
 
 <table>
   <tr>
@@ -97,17 +95,6 @@ I like working on practical projects that combine **backend engineering, archite
     </td>
   </tr>
 </table>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ChrisiTornado&show_icons=true&theme=github_dark&hide_border=true&border_radius=8&title_color=00D4FF&icon_color=00D4FF" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisiTornado&layout=compact&theme=github_dark&hide_border=true&border_radius=8&title_color=00D4FF" alt="Top languages" />
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00D4FF,55:0A66C2,100:0B1020" alt="Footer wave" />
